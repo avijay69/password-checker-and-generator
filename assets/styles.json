@@ -1,0 +1,16 @@
+{
+    "light": {
+      "bg": "#F5F5F5",
+      "fg": "#FFFFFF",
+      "text": "#000000",
+      "progress_bar": "#2FA572",
+      "button": "#2FA572"
+    },
+    "dark": {
+      "bg": "#2B2B2B",
+      "fg": "#3B3B3B",
+      "text": "#FFFFFF",
+      "progress_bar": "#2FA572",
+      "button": "#2FA572"
+    }
+  }
